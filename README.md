@@ -1,5 +1,11 @@
 Star Raiders for Atari 800
 ==============================================================================
+
+
+![Star-raiders-game-under-attack](https://user-images.githubusercontent.com/3331718/133703939-30efa4b6-2ba0-43f5-b973-d9421e8ebfae.gif)
+
+
+
 Typed in from [scanned hardcopies](https://archive.org/stream/AtariStarRaidersSourceCode/Atari_Star_Raiders_Source_Code).  The symbol table (pages 113-116) is *not* included. (After 144KiBy you'd also be reluctant to type in anything that wasn't absolutely necessary!)
 
 I would like to acknowledge the contributions of the following people in making this project possible:
